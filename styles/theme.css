@@ -1,0 +1,8 @@
+:root {
+    --background-color-light:    #FFFFFF;
+    --background-color-dark:     #000000;
+    --text-color-light:          #000000;
+    --text-color-dark:           #FFFFFF;
+    --error-text-border-color:   #FF0000;
+    --success-text-border-color: #00FF00;
+}

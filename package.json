@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JJRoot822/ThemeCreator/issues"
   },
-  "homepage": "https://github.com/JJRoot822/ThemeCreator#readme"
+  "homepage": "https://github.com/JJRoot822/ThemeCreator#readme",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
 }
